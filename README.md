@@ -1,7 +1,7 @@
 # gemini-proxy-panel
 
 [**中文介绍**](./README_zh.md "Chinese Readme") <br><br>
-[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/dreamhartley/gemini-proxy-panel)
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/dongkid/gemini-proxy-panel)
 
 ## Introduction
 
